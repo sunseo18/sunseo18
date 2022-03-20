@@ -22,7 +22,7 @@
       src="http://img.shields.io/badge/-Tech%20Blog-bdffc1?style=flat&logo=naver&link=https://blog.naver.com/kjmj13/"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href="https://jeonjunseo-portfolio.notion.site/17cff9f7ca1d4490a26d1a8d6b95e86c">
+    <a href="https://boulder-mandrill-1cb.notion.site/1b689f5b28884e67af14ae22a37a3e10">
       <img
       src="http://img.shields.io/badge/Portfolio-ef99e8?style=flat&logo=notion&link=https://jeonjunseo-portfolio.notion.site/17cff9f7ca1d4490a26d1a8d6b95e86c"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
