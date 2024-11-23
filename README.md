@@ -46,5 +46,4 @@
 <div align="center">
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmj13)](https://solved.ac/kjmj13)  
-  
 </div>
